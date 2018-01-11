@@ -1,5 +1,5 @@
 var path = require('path');
-var nodeUtils = require('util');
+var nodeUtils = require('../../../util');
 var lodash = require('lodash');
 
 /**
